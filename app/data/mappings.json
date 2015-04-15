@@ -1,0 +1,37 @@
+[
+    {
+      "location":[165,150],
+      "color":"green",
+      "text": "learn how grouping works"
+    },
+    {
+      "location":[165,350],
+      "color":"green",
+      "text": "be able to add nodes"
+    },
+    {
+      "location":[565,100],
+      "color":"blue",
+      "text": "create a mock json file"
+    },
+    {
+      "location":[565,250],
+      "color":"blue",
+      "text": "be able to edit text"
+    },
+    {
+      "location":[565,400],
+      "color":"blue",
+      "text": "add arrows between nodes"
+    },
+    {
+      "location":[965,150],
+      "color":"red",
+      "text": "add business sections"
+    },
+    {
+      "location":[965,350],
+      "color":"red",
+      "text": "add section divider lines"
+    }
+]
